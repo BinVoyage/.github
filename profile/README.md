@@ -1,5 +1,7 @@
 # BinVoyage
-- 앱 다운로드 [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.binvoyage) [App Store 바로가기](https://apps.apple.com/us/app/binvoyage/id6624302211?uo=2)
+### Download App
+- [Play Store](https://play.google.com/store/apps/details?id=com.binvoyage)
+- [App Store](https://apps.apple.com/us/app/binvoyage/id6624302211?uo=2)
 
 ![Image](https://github.com/user-attachments/assets/e03ab2df-dd42-4401-aad1-2f1f32fc7955)
 
